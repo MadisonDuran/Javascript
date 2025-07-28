@@ -14,4 +14,3 @@ exercise("Swimming")(); // Output: Today's Exercise: Swimming
 exercise("Dancing")(); // Output: Today's Exercise: Dancing
 exercise("Fencing")(); // Output: Today's Exercise: Fencing
 
-git 
